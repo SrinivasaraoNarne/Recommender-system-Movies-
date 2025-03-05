@@ -15,3 +15,21 @@ This repository contains a Movie Recommender System that suggests movies to user
 * Train the recommendation model using one of the implemented algorithms.
 * Provide user input (e.g., movie name or ratings) to receive recommendations.
 * Visualize the recommended movies and trends.
+## Dataset
+The dataset includes:
+Movie Metadata: Title, genres, release year, cast, etc.
+User Interactions: Ratings, watch history, and preferences.
+
+Source: Available on Kaggle or other open data platforms.
+
+Future Enhancements
+
+Implement deep learning-based recommendations.
+
+Develop a web-based interface for easier interaction.
+
+Integrate with real-world movie databases (e.g., TMDb, IMDb API).
+
+Acknowledgments
+
+Thanks to open-source datasets and libraries that facilitate the development of recommendation systems.
